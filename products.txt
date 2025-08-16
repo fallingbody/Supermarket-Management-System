@@ -1,3 +1,30 @@
-Bat 200 4
-Ball 60 38
-Vball 500 4
+F.ball 1500
+V.ball 700
+B.ball 1000
+B.bat 2000
+Glove 2000
+TT.rkt 500
+TT.ball 80
+LT.rkt 3000
+LT.ball 90
+G.ball 800
+G.club 8000
+B.rkt 1200
+Shuttle 50
+R.ball 400
+H.ball 100
+H.stck 1100
+C.bat 2000
+C.ball 80
+Skates 3000
+Y.mat 1000
+S.gog 900
+S.cap 300
+R.band 200
+J.rope 100
+B.glove 1000
+P.bag 4000
+Cycle 5000
+Helmet 300
+Shoes 1000
+Bat1 2000
